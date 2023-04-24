@@ -5,4 +5,15 @@ If you were scouting out an athletics team, you would need to know more than jus
 In this R project, we will use dataframes and the `dplyr` package to find out who you should put on our team, and in doing so become the next "Moneyball" star manager of an athletics team.
 
 We will use performance data collated from jumps and throws events in the US from 2013-2017.
+## Contents
+1. Athletics needs a new breed of scouts and managers
+2. Managers love tidy data
+3. Every throw matters
+4. Find the clutch performers
+5. Pull the pieces together for a new look at the athletes
+6. Normalize the data to compare across stats
+7. What matters most when building your squad?
+8. Get to know your players
+9. Make your case to the front office
+10. Time to throw down
 
