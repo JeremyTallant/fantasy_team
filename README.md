@@ -26,7 +26,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 1. **Athletics needs a new breed of scouts and managers:** Read in the dataset and extract the events of interest.
 2. **Managers love tidy data:** Put the data in a tidy format, where each observation is the result from an individual flight.
 3. **Every throw matters:** For each meet an athlete competed in, we want to know the total distance covered, the standard deviation of each athlete's successful throws and the number of successful throws.
-4. **Find the clutch performers:**
+4. **Find the clutch performers:** Use the data frame `javelin` to find the difference between the first three throws and second three throws for each athlete in each event.
 5. **Pull the pieces together for a new look at the athletes:**
 6. **Normalize the data to compare across stats:**
 7. **What matters most when building your squad?:**
