@@ -23,14 +23,14 @@ IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
 ## Contents
-1. Athletics needs a new breed of scouts and managers
-2. Managers love tidy data
-3. Every throw matters
-4. Find the clutch performers
-5. Pull the pieces together for a new look at the athletes
-6. Normalize the data to compare across stats
-7. What matters most when building your squad?
-8. Get to know your players
-9. Make your case to the front office
-10. Time to throw down
+1. **Athletics needs a new breed of scouts and managers:**
+2. **Managers love tidy data:**
+3. **Every throw matters:**
+4. **Find the clutch performers:**
+5. **Pull the pieces together for a new look at the athletes:**
+6. **Normalize the data to compare across stats:**
+7. **What matters most when building your squad?:**
+8. **Get to know your players:**
+9. **Make your case to the front office:**
+10. **Time to throw down:**
 
