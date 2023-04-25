@@ -24,7 +24,7 @@ IRkernel::installspec()
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
 ## Contents
 1. **Athletics needs a new breed of scouts and managers:** Read in the dataset and extract the events of interest.
-2. **Managers love tidy data:**
+2. **Managers love tidy data:** Put the data in a tidy format, where each observation is the result from an individual flight.
 3. **Every throw matters:**
 4. **Find the clutch performers:**
 5. **Pull the pieces together for a new look at the athletes:**
