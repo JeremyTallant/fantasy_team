@@ -31,6 +31,6 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 6. **Normalize the data to compare across stats:** Apply a function to normalize the data across aggregate statistics then compute each athlete's average for each of the normalized stats.
 7. **What matters most when building your squad?:** Choose the weights for our statistics.
 8. **Get to know your players:** Create a data frame `team_stats` containing your players' average statistics from the `javelin_totals` data frame. 
-9. **Make your case to the front office:**
+9. **Make your case to the front office:** Create a 2 x 2 grid of plots, each showing a different aggregate statistic.
 10. **Time to throw down:**
 
