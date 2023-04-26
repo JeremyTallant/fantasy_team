@@ -32,5 +32,5 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 7. **What matters most when building your squad?:** Choose the weights for our statistics.
 8. **Get to know your players:** Create a data frame `team_stats` containing your players' average statistics from the `javelin_totals` data frame. 
 9. **Make your case to the front office:** Create a 2 x 2 grid of plots, each showing a different aggregate statistic.
-10. **Time to throw down:**
+10. **Time to throw down:** Select which three of your five players you want to send out onto the field. Use their average data in the team_stats data frame.
 
