@@ -29,7 +29,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 4. **Find the clutch performers:** Use the data frame `javelin` to find the difference between the first three throws and second three throws for each athlete in each event.
 5. **Pull the pieces together for a new look at the athletes:** Join the diff column from javelin to the javelin_totals data frame that contains the other summary statistics.
 6. **Normalize the data to compare across stats:** Apply a function to normalize the data across aggregate statistics then compute each athlete's average for each of the normalized stats.
-7. **What matters most when building your squad?:**
+7. **What matters most when building your squad?:** Choose the weights for our statistics.
 8. **Get to know your players:**
 9. **Make your case to the front office:**
 10. **Time to throw down:**
